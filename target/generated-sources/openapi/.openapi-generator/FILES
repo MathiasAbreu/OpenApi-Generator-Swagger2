@@ -1,0 +1,16 @@
+src/main/java/br/com/ufcg/demo/ApiUtil.java
+src/main/java/br/com/ufcg/demo/PetApi.java
+src/main/java/br/com/ufcg/demo/PetApiController.java
+src/main/java/br/com/ufcg/demo/PetApiDelegate.java
+src/main/java/br/com/ufcg/demo/StoreApi.java
+src/main/java/br/com/ufcg/demo/StoreApiController.java
+src/main/java/br/com/ufcg/demo/StoreApiDelegate.java
+src/main/java/br/com/ufcg/demo/UserApi.java
+src/main/java/br/com/ufcg/demo/UserApiController.java
+src/main/java/br/com/ufcg/demo/UserApiDelegate.java
+src/main/java/br/com/ufcg/demo/model/Category.java
+src/main/java/br/com/ufcg/demo/model/ModelApiResponse.java
+src/main/java/br/com/ufcg/demo/model/Order.java
+src/main/java/br/com/ufcg/demo/model/Pet.java
+src/main/java/br/com/ufcg/demo/model/Tag.java
+src/main/java/br/com/ufcg/demo/model/User.java
